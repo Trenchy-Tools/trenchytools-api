@@ -4,7 +4,7 @@
 
 Launch and trade on **pump.fun** and **PumpSwap** (Solana) and **pons** (Robinhood Chain) through a single HTTP API. The API builds unsigned transactions; your code signs them locally, so keys never leave your machine.
 
-**[Website](https://trenchy.tools)** · **[Docs](https://trenchy.tools/docs)** · **[API spec](https://trenchy.tools/openapi.json)** · **[Agent instructions](https://api.trenchy.tools/AGENTS.md)** · **[X](https://x.com/trenchytools)**
+**[Website](https://trenchy.tools)** · **[Docs](https://trenchy.tools/docs)** · **[API spec](https://trenchy.tools/openapi.json)** · **[Agent instructions](https://api.trenchy.tools/AGENTS.md)** · **[X](https://x.com/trenchytoolz)**
 
 ## Start in 60 seconds
 
@@ -32,9 +32,9 @@ Then follow **[AGENTS.md](https://api.trenchy.tools/AGENTS.md)** — it is writt
 
 | Repo | What |
 |---|---|
-| [pumpfun-starter](https://github.com/Trenchy-Tools/pumpfun-starter) | Solana: wallets, bundled launches, snipers, timed sells |
-| [pons-starter](https://github.com/Trenchy-Tools/pons-starter) | Robinhood Chain: launches and trading (curve → Uniswap v4) |
-| [wallet-mover](https://github.com/Trenchy-Tools/wallet-mover) | create, fund, split and consolidate wallets across chains |
+| [trenchytools-pumpfun-launcher](https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher) | Solana: wallets, bundled launches, snipers, timed sells |
+| [trenchytools-pons-launcher](https://github.com/Trenchy-Tools/trenchytools-pons-launcher) | Robinhood Chain: launches and trading (curve → Uniswap v4) |
+| [trenchytools-wallet-mover](https://github.com/Trenchy-Tools/trenchytools-wallet-mover) | create, fund, split and consolidate wallets across chains |
 
 Live demos: [pumpfun.trenchy.tools](https://pumpfun.trenchy.tools) · [pons.trenchy.tools](https://pons.trenchy.tools) · [mover.trenchy.tools](https://mover.trenchy.tools)
 
